@@ -14,7 +14,7 @@
   </a>
   <a>
     <br/>
-    <img src="https://komarev.com/ghpvc/?username=Bill66613&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=ttrang0311&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
 
@@ -31,9 +31,9 @@
 
 ### :woman_technologist: About Me :
 
-I am a Mechatronic Engineer who learn coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
+I am a Environmental Engineer who learns coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Data Analyst and supporting project managers in financial process with insights.
 
 - :seedling: Exploring Technical Content Writing.
 
@@ -67,9 +67,9 @@ I am a Mechatronic Engineer who learn coding <img src="https://media.giphy.com/m
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bill66613&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ttrang0311&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bill66613&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttrang0311&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -79,7 +79,7 @@ I am a Mechatronic Engineer who learn coding <img src="https://media.giphy.com/m
 <!-- BLOG-POST-LIST:END -->
 
 <!--
-**Bill66613/Bill66613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ttrang0311/ttrang0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
